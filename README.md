@@ -13,6 +13,7 @@
 | [03 — Классификация](03-classification/) | [Классификация CIFAR-10](03-classification/cifar10_classification_methods.ipynb) | Сравнение классических признаков и моделей с CNN; визуализация предсказаний. |
 | [04 — Регрессия](04-regression/) | [Регрессия лицевых ключевых точек](04-regression/facial_keypoint_regression.ipynb) | Сравнение EfficientNet и собственных CNN для предсказания координат ключевых точек лица; обработка пропущенных меток и сравнение по RMSE. |
 | [05 — Сегментация](05-segmentation/) | [Сегментация аэроснимков](05-segmentation/aerial_drone_semantic_segmentation.ipynb) | Обучение и сравнение U-Net, PSPNet и SegFormer на Semantic Drone Dataset по Dice и IoU. |
+| [06 — Автоэнкодеры](06-autoencoders/) | [Lab 7: восстановление лица автоэнкодером](06-autoencoders/lab7_face_image_inpainting_autoencoder.ipynb) | Восстановление закрытых областей лица с помощью U-Net и автоэнкодеров на базе EfficientNet. В каждой ячейке с визуализацией оставлен один репрезентативный вывод; остальные изображения удалены, чтобы уменьшить размер ноутбука. |
 
 ## Запуск
 
